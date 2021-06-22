@@ -1,0 +1,65 @@
+.grid {
+    padding-top: 40px;
+    display: grid;
+    width: 100%;
+    max-width: 750px;
+    margin:  auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+
+#m1 {
+    background-color: darkred;
+    width: 66%;
+    height: 40px;
+}
+
+#m2 {
+    background-color: rgb(60, 191, 201);
+    width: 66%;
+    height: 40px;
+}
+
+#m3 {
+    background-color: rgb(60, 192, 122);
+    width: 66%;
+    height: 40px;
+}
+#m4 {
+    background-color: rgb(144, 11, 144);
+    width: 66%;
+    height: 40px;
+}
+
+#m5 {
+    background-color: orangered;
+    width: 66%;
+    height: 40px;
+
+}
+
+#m6 {
+    background-color: rgb(32, 98, 184);
+    width: 66%;
+    height: 40px;
+
+}
+
+#m7 {
+    background-color: rgb(214, 78, 78);
+    width: 66%;
+    height: 40px;
+}
+
+#m8 {
+    background-color: rgb(67, 201, 62);
+    width: 66%;
+    height: 40px;
+}
+
+#m9 {
+    background-color: rgb(25, 48, 149);
+    width: 66%;
+    height: 40px; 
+}  
